@@ -1,0 +1,17 @@
+{
+  "name": "htmlstudy",
+  "version": "0.0.1",
+  "description": "Portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass src/scss/:dist/css/ --no-source-map --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "sass": "^1.45.0"
+  },
+  "dependencies": {}
+}
